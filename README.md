@@ -4,5 +4,12 @@ Desenvolvimento simples de um projeto/desafio proposto para os concorrentes à b
 ## Conceito
 Desenvolvimento de uma página minimalista na WEB que possa procurar informações de filmes solicitados pelo usuário.
 
+## Ferramentas Utilizadas
+Foram utilizadas algumas ferramentas para o auxilio deste projeto.
+- jQuery v3.3.1
+- Font Awesome v5.7.2
+- Google Fonts (Open Sans)
+- OMDb API
+
 ## Observações
 Para procurar um novo filme é aconselhável que recarregue a página, contudo, é possível fazer novas pesquisas com a página já em solicitação.
